@@ -1,5 +1,5 @@
 # HMS-My_Health_care
-<b>Link</b> :https://github.com/prem1226/Hospital-management-system
+<b>Link</b> :https://github.com/Chakri1905/HMS-My_Health_care
 
 HMS-My_Health_care made for Sem 6 DBMS Course Project.<br>
 Hospitals interact with a lot of people in a day and there are various activities involved in day to day operations of hospitals, for example booking of appointments, managing doctor schedules, managing patient diagnoses, managing medical histories of patients, etc. The aim of this project is to show how data related to these tasks can be made easier to manage using databases.
@@ -12,10 +12,10 @@ Database : MySQL
 </pre>
 
 <b>ER Diagram :</b>
-![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Schemas%26ER/myer.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Schemas%26ER/myer.png)
 
 <b>Relational Schemas :</b>
-![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Schemas%26ER/schema.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Schemas%26ER/schema.png)
 
 <b>Patient Side Features :</b>
 
@@ -49,40 +49,40 @@ Database : MySQL
 
 <b>Screenshots :</b>
 1. Patient registering on the system:
-![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/PatientRegistration.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/PatientRegistration.png)
 
 2. Doctor registering on the system:
-![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/DoctorRegistration.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/DoctorRegistration.png)
 
 3. Log In Screen:
-![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/LogInScreen.png)
+![alt text]https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/LogInScreen.png)
 
 4. Password Reset Screen:
-![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/PasswordReset.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/PasswordReset.png)
 
 5. Patient Home Screen:
-![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/PatientHome.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/PatientHome.png)
 
 6. Patient Viewing History:
-![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/ViewingPatientHistory.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/ViewingPatientHistory.png)
 
 7. Patient Viewing Appointments:
-![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/PatientViewingAppt.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/PatientViewingAppt.png)
 
 8. Patient Scheduling Appointment:
-![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/SchedulingAppt.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/SchedulingAppt.png)
 
 9. Doctor Home Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorHome.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/DoctorHome.png)
 
 10. Doctor Viewing Appointment:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorViewingAppt.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/DoctorViewingAppt.png)
 
 11. Doctor Giving Diagnosis:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/Diagnosis.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/Diagnosis.png)
 
 12. Doctor Viewing Patient History:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/ViewingPatientHistory.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/ViewingPatientHistory.png)
 
 <b>Instructions to run:</b>
 
