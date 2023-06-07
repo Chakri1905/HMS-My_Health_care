@@ -55,7 +55,7 @@ Database : MySQL
 ![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/DoctorRegistration.png)
 
 3. Log In Screen:
-![alt text]https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/LogInScreen.png)
+![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/LogInScreen.png)
 
 4. Password Reset Screen:
 ![alt text](https://github.com/Chakri1905/HMS-My_Health_care/blob/master/Screenshots/PasswordReset.png)
